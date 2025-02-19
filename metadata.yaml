@@ -1,0 +1,32 @@
+_repo: Who-he_75234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bester, Alfred
+    birthdate: 1913
+    deathdate: 1987
+    gutenberg_agent_id: '51483'
+    url: http://www.gutenberg.org/2009/agents/51483
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Bester
+description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/Who_He%3F'
+gutenberg_issued: '2025-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75234'
+  lccn: '53009322'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015013316743
+pgterms:marc905: 20240804151124bester
+pgterms:marc906: '1953'
+pgterms:marc907: us
+production_note: Adam Buchbinder, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Dial Press, $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"Who he?"'
+url: http://www.gutenberg.org/ebooks/75234
